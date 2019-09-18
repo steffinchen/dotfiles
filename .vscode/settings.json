@@ -1,0 +1,52 @@
+{
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.alwaysShowStatus": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.renderIndentGuides": false,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    "**/_build": true,
+    "**/build": true,
+    "**/node_modules": true,
+    "**/deps": true
+  },
+  "files.associations": {
+    "*.variables": "less",
+    "*.overrides": "less"
+  },
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true
+  },
+  "powermode.enabled": true,
+  "powermode.enableShake": false,
+  "powermode.comboThreshold": 10,
+  "powermode.presets": "fireworks",
+  "powermode.comboTimeout": 3,
+  "plantuml.exportInPlace": true,
+  "plantuml.previewFromUrlServer": true,
+  "search.useIgnoreFiles": true,
+  "search.useIgnoreFilesByDefault": true,
+  "terminal.integrated.scrollback": 3000,
+  "window.zoomLevel": 1,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[less]": {
+    "editor.formatOnSave": false
+  },
+  "[yaml]": {
+    "editor.formatOnSave": false
+  }
+}

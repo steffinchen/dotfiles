@@ -1,0 +1,56 @@
+{
+  "coauthors": {
+    "jd": {
+      "name": "Jonathan Darrer",
+      "email": "jdarrer@findmypast.com"
+    },
+    "jb": {
+      "name": "Jack Bittiner",
+      "email": "jackbittiner@hotmail.com"
+    },
+    "rb": {
+      "name": "Regis Bittencourt",
+      "email": "rbittencourt@findmypast.com"
+    },
+    "jbh": {
+      "name": "Jae Bach Hardie",
+      "email": "jhardie@findmypast.com"
+    },
+    "emd": {
+      "name": "Emily McDonald",
+      "email": "emcdonald@findmypast.com"
+    },
+    "tb": {
+      "name": "Thiago Bordignon",
+      "email": "thiago_bordignon@live.com"
+    },
+    "rk": {
+      "name": "Richard Kotze",
+      "email": "rkotze@findmypast.com"
+    },
+    "am": {
+      "name": "Attila Molnar",
+      "email": "amolnar@findmypast.com"
+    },
+    "cf": {
+      "name": "Charlie Furniss",
+      "email": "charliefurniss96@gmail.com"
+    },
+    "jr": {
+      "name": "Julien Robberechts",
+      "email": "jrobberechts@findmypast.com"
+    },
+    "lm": {
+      "name": "Laurie Mills",
+      "email": "lmills@findmypast.com"
+    },
+    "mtfi": {
+      "name": "Mike Thomas",
+      "email": "mthomas@findmypast.com"
+    },
+    "MF": {
+      "name": "Mo Fisher",
+      "email": "mfisher@findmypast.com"
+    }
+  }
+}

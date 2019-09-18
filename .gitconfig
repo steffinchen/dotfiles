@@ -1,0 +1,10 @@
+[core]
+	autocrlf = false
+[user]
+	name = Stefanie Wehrle
+	email = steffinchen@gmail.com
+[commit]
+[rebase]
+	autoStash = true
+[pull]
+	rebase = true
